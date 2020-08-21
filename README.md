@@ -1,3 +1,3 @@
 # github-flappybird
 
-Sebuah repository assignment projek Flappy Bird yang dikerjakan oleh Brian Wijaya.
+Sebuah repository assignment projek Flappy Bird.
